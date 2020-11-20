@@ -1,7 +1,7 @@
 # Movie Data Analysis
 
 
-![photo by Skitterphoto on pexel] (https://www.pexels.com/photo/abstract-analog-art-camera-390089/)
+![photo by Skitterphoto on pexel](https://www.pexels.com/photo/abstract-analog-art-camera-390089/)
 
 
 
