@@ -41,7 +41,7 @@ The following questions were asked to analyze the data:
 
 ## Recomemendations
 
-1. Best Studios:20th Century Fox, Warner Bros. and Universal Pictures are top three studio to partner with.
+1. Best Studios to contract with:20th Century Fox, Warner Bros. and Universal Pictures are top three studio to partner with.
 2. More movie production budget, more in revenue. 
 3. A higher production budget gets higher profit.
 4. Profitable Genre: Adventure, Action, and Comedy.
@@ -49,8 +49,8 @@ The following questions were asked to analyze the data:
 
 
 ## Limitation:
-- I noticed that the data from Box office Mojo (BOM) is not up to date, which limits me to make another comparison between the domestic and the foreign gross.
-- The small size of the datasets provided
+- I noticed that the data from Box office Mojo (BOM) is not up to date, which limits me to make another comparison between the domestic gross and the foreign gross.
+- The small size of the datasets provided.
 
 ## Observations:
 
