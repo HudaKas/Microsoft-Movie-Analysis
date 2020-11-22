@@ -8,8 +8,10 @@
 ## Introduction:
 
 Microsoft has decided to create a new movie studio, but they want to gather information to better understand the movie industry and what type of films to create.
+
 Movies data were gathered to study, process, analyze, and make a decision to help Microsoft how they should start their movie studio.
-The recommendation is going to be based on the best studio, Movie's production budget, which genre makes a lot of many, and the most popular genre.
+
+The recommendation is going to be based on the best studio, movie's production budget, which genre makes a lot of money, and the most popular genre.
 
 ### The Data
 
