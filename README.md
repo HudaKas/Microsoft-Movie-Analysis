@@ -42,7 +42,7 @@ The following questions were asked to analyze the data:
 ## Recomemendations
 
 1. Best Studios to contract with:20th Century Fox, Warner Bros. and Universal Pictures are top three studio to partner with.
-2. More movie production budget, more in revenue. 
+2. More in movie production budget, more in revenue. 
 3. A higher production budget gets higher profit.
 4. Profitable Genre: Adventure, Action, and Comedy.
 5. Popular Genre: Drama, Comedy, and Action.
